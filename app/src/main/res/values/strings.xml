@@ -10,4 +10,10 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="exit">Exit</string>
+    <string name="back_button">Back Button</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="gui_demo_21l_5843">GUI Demo (21L-5843)</string>
+    <string name="home_button">Home Button</string>
 </resources>
